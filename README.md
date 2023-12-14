@@ -20,7 +20,7 @@ The Calculator app allows users to perform basic arithmetic calculations on thei
 ### Installation
 
 1. Clone the repository:
-   git clone https://github.com/nikittank/PRODIGY_AD_01.git
+   git clone https://github.com/kamatchi-somesh/PRODIGY_AD_01.git
 
 
 2. Open the project in Android Studio:
