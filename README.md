@@ -2,11 +2,11 @@
 
 # Android Calculator App
 
-This is a simple calculator Android application developed using Kotlin in Android Studio.
+This is a straightforward calculator Android application developed using Kotlin in Android Studio.
 
 ## Overview
 
-The Calculator app allows users to perform basic arithmetic calculations on their Android devices. It supports addition, subtraction, multiplication, and division operations.
+The Calculator app enables users to perform basic arithmetic calculations on their Android devices. It supports addition, subtraction, multiplication, and division operations.
 
 ## Features
 
@@ -19,16 +19,17 @@ The Calculator app allows users to perform basic arithmetic calculations on thei
 
 ### Installation
 
-1. Clone the repository:
+1. **Clone the repository:**
+   ```bash
    git clone https://github.com/kamatchi-somesh/PRODIGY_AD_01.git
+   ```
 
-
-2. Open the project in Android Studio:
+2. **Open the project in Android Studio:**
    - Launch Android Studio.
    - Choose "Open an existing Android Studio project."
    - Navigate to the cloned directory and select the project.
 
-3. Build and run the app:
+3. **Build and run the app:**
    - Build the project.
    - Select a target device or emulator.
    - Run the application.
@@ -45,6 +46,4 @@ The Calculator app allows users to perform basic arithmetic calculations on thei
 - Android Studio
 
 ## Screenshots
-![image](https://github.com/kamatchi-somesh/PRODIGY_AD_01/assets/151341244/ec30558c-1092-4618-945b-68880a2ae7ba)
-
-
+![Calculator App Screenshot](https://github.com/kamatchi-somesh/PRODIGY_AD_01/blob/main/assets/screenshot.png)
