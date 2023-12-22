@@ -44,6 +44,3 @@ The Calculator app enables users to perform basic arithmetic calculations on the
 
 - Kotlin
 - Android Studio
-
-## Screenshots
-![Calculator App Screenshot](https://github.com/kamatchi-somesh/PRODIGY_AD_01/blob/main/assets/screenshot.png)
